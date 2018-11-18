@@ -6492,8 +6492,8 @@
     "license": "Apache License 2.0",
     "headquarters": "San Francisco, California",
     "latestTweetDate": {
-      "text": "2 months ago",
-      "value": "950",
+      "text": "3 months ago",
+      "value": "940",
       "original": "2018-09-04T15:21:21.000Z"
     },
     "description": "Hotpot: OpenSDS Controller Project",
@@ -8484,8 +8484,8 @@
     },
     "latestCommitLink": "https://github.com/ligato/cn-infra/commit/88f6c1792942f00f83924bab91f07734eafc34ab",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2018-10-04T11:02:28Z"
     },
     "releaseLink": "https://github.com/ligato/cn-infra/releases",
@@ -10000,8 +10000,8 @@
     "license": "Apache License 2.0",
     "headquarters": "Hangzhou, China",
     "latestTweetDate": {
-      "text": "3 weeks ago",
-      "value": "970",
+      "text": "about a month",
+      "value": "960",
       "original": "2018-10-28T16:36:49.000Z"
     },
     "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications(更易于构建云原生应用的动态服务发现、配置管理和服务管理平台)",
@@ -10670,8 +10670,8 @@
     },
     "latestCommitLink": "https://github.com/haproxy/haproxy/commit/a337229ac29ef7614bafdfc23e5825a4d452e909",
     "releaseDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-11-11T09:43:39Z"
     },
     "releaseLink": "https://github.com/haproxy/haproxy/releases",
@@ -13635,8 +13635,8 @@
     },
     "latestCommitLink": "https://github.com/orientechnologies/orientdb/commit/9656bea76449ccfba59898e11ec2aec6e668a391",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2018-10-04T16:20:24Z"
     },
     "releaseLink": "https://github.com/orientechnologies/orientdb/releases",
@@ -13795,8 +13795,8 @@
     },
     "latestCommitLink": "https://github.com/pilosa/pilosa/commit/0ed5b86315c7c9f8deed7135313b1a38ac0c0f76",
     "releaseDate": {
-      "text": "4 months ago",
-      "value": "930",
+      "text": "5 months ago",
+      "value": "920",
       "original": "2018-07-06T04:32:08Z"
     },
     "releaseLink": "https://github.com/pilosa/pilosa/releases",
@@ -18454,8 +18454,8 @@
     "cncfMember": "silver",
     "cncfRelation": "member",
     "firstCommitDate": {
-      "text": "8 months ago",
-      "value": "890",
+      "text": "9 months ago",
+      "value": "880",
       "original": "2018-03-08T06:25:03Z"
     },
     "firstCommitLink": "https://github.com/hasura/gitkube/commit/3bfb0fb7aa0f889f5dbb1fbb89159c52e6ac0d65",
@@ -24581,57 +24581,6 @@
     "id": "weaveworks-kubeadm"
   },
   {
-    "name": "Stratoscale Symphony",
-    "description": "Stratoscale Symphony offers a robust software-defined cloud infrastructure solution that converges all resources into one holistic single software solution, enabling IT teams to focus on high-impact initiatives.",
-    "homepage_url": "https://www.stratoscale.com/products/symphony/",
-    "logo": "./hosted_logos/stratoscale.svg",
-    "crunchbase": "https://www.crunchbase.com/organization/stratoscale",
-    "cncf_membership_data": {
-      "cncf_member": false
-    },
-    "image_data": {
-      "fileName": "stratoscale-symphony.svg",
-      "hash": "zoxoVyjVK3m3rLx32FLREVTRyzHfS8Fi4oY/50M0TiM="
-    },
-    "cncfMember": false,
-    "cncfRelation": false,
-    "firstCommitLink": null,
-    "latestCommitLink": null,
-    "license": "NotOpenSource",
-    "headquarters": "Herzliya, Israel",
-    "twitter": "https://twitter.com/stratoscale",
-    "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
-      "original": "2018-11-15T07:42:56.000Z"
-    },
-    "organization": "Stratoscale",
-    "crunchbaseData": {
-      "name": "Stratoscale",
-      "description": "Stratoscale is an enterprise software company developing solutions to revolutionize the data center.",
-      "homepage": "http://www.stratoscale.com",
-      "city": "Herzliya",
-      "region": "Tel Aviv",
-      "country": "Israel",
-      "twitter": "https://twitter.com/stratoscale",
-      "linkedin": "https://www.linkedin.com/company/stratoscale",
-      "kind": "funding",
-      "funding": 69000000,
-      "numEmployeesMin": 51,
-      "numEmployeesMax": 100
-    },
-    "path": "Platform / Non-Certified Kubernetes",
-    "landscape": "Platform / Non-Certified Kubernetes",
-    "category": "Platform",
-    "amountKind": "funding",
-    "amount": 69000000,
-    "oss": false,
-    "href": "/logos/stratoscale-symphony.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "stratoscale-symphony"
-  },
-  {
     "name": "Atomist",
     "homepage_url": "https://atomist.com/",
     "logo": "./hosted_logos/atomist.svg",
@@ -24958,8 +24907,8 @@
     "license": "NotOpenSource",
     "headquarters": "Beijing, China",
     "latestTweetDate": {
-      "text": "2 months ago",
-      "value": "950",
+      "text": "3 months ago",
+      "value": "940",
       "original": "2018-09-04T02:50:25.000Z"
     },
     "description": "Hyper.sh is a secure container cloud service.",
@@ -27923,8 +27872,8 @@
     "license": "NotOpenSource",
     "headquarters": "Beijing, China",
     "latestTweetDate": {
-      "text": "2 months ago",
-      "value": "950",
+      "text": "3 months ago",
+      "value": "940",
       "original": "2018-09-04T02:50:25.000Z"
     },
     "description": "Hyper.sh is a secure container cloud service.",

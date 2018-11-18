@@ -1576,11 +1576,6 @@
       "url": "storage-os"
     },
     {
-      "id": "Stratoscale",
-      "label": "Stratoscale",
-      "url": "stratoscale"
-    },
-    {
       "id": "StreamSets",
       "label": "StreamSets",
       "url": "stream-sets"
@@ -2013,7 +2008,6 @@
         "Platform / Certified Kubernetes - Distribution",
         "Platform / Certified Kubernetes - Hosted",
         "Platform / Certified Kubernetes - Installer",
-        "Platform / Non-Certified Kubernetes",
         "Platform / PaaS/Container Service"
       ]
     },
@@ -2039,14 +2033,6 @@
       "label": "Certified Kubernetes - Installer",
       "groupingLabel": "Platform - Certified Kubernetes - Installer",
       "url": "certified-kubernetes-installer",
-      "level": 2
-    },
-    {
-      "id": "Platform / Non-Certified Kubernetes",
-      "parentId": "Platform",
-      "label": "Non-Certified Kubernetes",
-      "groupingLabel": "Platform - Non-Certified Kubernetes",
-      "url": "non-certified-kubernetes",
       "level": 2
     },
     {
